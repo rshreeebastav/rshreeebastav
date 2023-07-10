@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Shreebastav</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Mobile Application developer from India</h3>
 
-- 🔭 I’m currently working on [RKU Placement Portal](https://drive.google.com/file/d/1T1TJixGjUUmMYp2oBibg4nASfVIl3olc/view?usp=sharing)
+- 🔭 I’m currently working on [different Mobile Application](https://drive.google.com/file/d/1T1TJixGjUUmMYp2oBibg4nASfVIl3olc/view?usp=sharing)
 
 - 🌱 I’m currently learning **Advanced ASP.net ,react.js,node.js**
 

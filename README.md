@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Shreebastav</h1>
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Web Developer and Mobile Application developer from India</h3>
 
 - 🔭 I’m currently working on [different technology on Mobile Application](https://drive.google.com/file/d/1T1TJixGjUUmMYp2oBibg4nASfVIl3olc/view?usp=sharing)
 
